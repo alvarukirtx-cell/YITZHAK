@@ -1,0 +1,6 @@
+{
+  "name": "MultiApp: Hola Mundo, Calculadora & Taquería",
+  "description": "Una aplicación versátil que incluye saludo bilingüe (ES/JA), calculadora científica y un sistema de registro para una taquería con base de datos real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
